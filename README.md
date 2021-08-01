@@ -22,6 +22,7 @@ Ukrainian | [x] [x] [x] [x] [x]
 Russian | [x] [x] [x] [x]
 English | [x] [x] [x]
 Deutsch | [x]
+
 **Software Skills**
 
 MD - 30/100
