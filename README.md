@@ -23,7 +23,7 @@ Russian | [x] [x] [x] [x]
 English | [x] [x] [x]
 Deutsch | [x]
 
-**Software Skills**
+## Software Skills ##
 
 MD - 30/100
 
