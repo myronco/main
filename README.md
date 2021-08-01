@@ -1,6 +1,6 @@
 # Personal Information #
 
-![GitHub Logo](logo.png)
+![GitHub Logo](images/logo.png)
 
 **Favorite quote:**
 > We're living the future so
